@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Magsman</string>
+    <string name="add_book">+ Add Book</string>
+    <string name="swipe_right">Swipe Right  >  >  > </string>
+    <string name="book_cover">book_cover</string>
+    <string name="book_title">book_title</string>
+    <string name="Title">Title</string>
+</resources>
